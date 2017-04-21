@@ -1,6 +1,9 @@
 
 import java.util.Random;
-
+/**
+ * tableau a double dimension
+ * @author formation
+ */
 public class tableau {
 
     public static void main(String[] args) {
