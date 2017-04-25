@@ -33,7 +33,7 @@ public class AbstractTest {
      OI.bouger();
      OI.manger();
      
-     List<Animals> Ani =new ArrayList();
+    List<Animals> Ani =new ArrayList();
     Ani.add(OI);
     Ani.add(POI);
     
