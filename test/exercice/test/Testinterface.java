@@ -36,7 +36,7 @@ public class Testinterface {
         List<Bombardeur> bomb = new ArrayList();
 
         flottant.add(BF);
-
+        flottant.add(HAM); 
         mittraille.add(HAM);
 
         for (Flottant b : flottant) {
@@ -61,3 +61,4 @@ public class Testinterface {
     // @Test
     // public void hello() {}
 }
+
